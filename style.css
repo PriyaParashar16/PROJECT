@@ -1,0 +1,30 @@
+body{
+background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align:center;
+}
+p{
+    font-size:30px;
+    font-style: bold;
+    margin:0;
+    padding:0;
+}
+.container{
+ width: 150px;
+ height:150px;
+ margin-bottom: 20px;
+ border-radius: 50%;
+ object-fit: cover;
+}
+.profile{
+    background-color: white;
+    max-width: 500px;
+    margin:auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
